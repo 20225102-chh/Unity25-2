@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Chh\\Unity25-2\\chap.06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27BE6962-3C38-B243-03FB-B1937CD17F98}|Assembly-CSharp.csproj|c:\\chh\\unity25-2\\chap.06\\assets\\2.scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BE6962-3C38-B243-03FB-B1937CD17F98}|Assembly-CSharp.csproj|solutionrelative:assets\\2.scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BE6962-3C38-B243-03FB-B1937CD17F98}|Assembly-CSharp.csproj|c:\\chh\\unity25-2\\chap.06\\assets\\2.scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BE6962-3C38-B243-03FB-B1937CD17F98}|Assembly-CSharp.csproj|solutionrelative:assets\\2.scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Chh\\Unity25-2\\chap.06\\Assets\\2.Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\2.Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Chh\\Unity25-2\\chap.06\\Assets\\2.Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\2.Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T01:47:25.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Chh\\Unity25-2\\chap.06\\Assets\\2.Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\2.Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Chh\\Unity25-2\\chap.06\\Assets\\2.Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\2.Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:08:55.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
