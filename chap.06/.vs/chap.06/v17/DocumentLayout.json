@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Chh\\Unity25-2\\chap.06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27BE6962-3C38-B243-03FB-B1937CD17F98}|Assembly-CSharp.csproj|c:\\chh\\unity25-2\\chap.06\\assets\\2.scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27BE6962-3C38-B243-03FB-B1937CD17F98}|Assembly-CSharp.csproj|solutionrelative:assets\\2.scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27BE6962-3C38-B243-03FB-B1937CD17F98}|Assembly-CSharp.csproj|c:\\chh\\unity25-2\\chap.06\\assets\\2.scripts\\movingcloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BE6962-3C38-B243-03FB-B1937CD17F98}|Assembly-CSharp.csproj|solutionrelative:assets\\2.scripts\\movingcloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27BE6962-3C38-B243-03FB-B1937CD17F98}|Assembly-CSharp.csproj|c:\\chh\\unity25-2\\chap.06\\assets\\2.scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27BE6962-3C38-B243-03FB-B1937CD17F98}|Assembly-CSharp.csproj|solutionrelative:assets\\2.scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BE6962-3C38-B243-03FB-B1937CD17F98}|Assembly-CSharp.csproj|C:\\Chh\\Unity25-2\\chap.06\\assets\\2.scripts\\cleardirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BE6962-3C38-B243-03FB-B1937CD17F98}|Assembly-CSharp.csproj|solutionrelative:assets\\2.scripts\\cleardirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BE6962-3C38-B243-03FB-B1937CD17F98}|Assembly-CSharp.csproj|C:\\Chh\\Unity25-2\\chap.06\\assets\\2.scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BE6962-3C38-B243-03FB-B1937CD17F98}|Assembly-CSharp.csproj|solutionrelative:assets\\2.scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +31,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MovingCloud.cs",
+              "DocumentMoniker": "C:\\Chh\\Unity25-2\\chap.06\\Assets\\2.Scripts\\MovingCloud.cs",
+              "RelativeDocumentMoniker": "Assets\\2.Scripts\\MovingCloud.cs",
+              "ToolTip": "C:\\Chh\\Unity25-2\\chap.06\\Assets\\2.Scripts\\MovingCloud.cs",
+              "RelativeToolTip": "Assets\\2.Scripts\\MovingCloud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:36:58.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClearDirector.cs",
+              "DocumentMoniker": "C:\\Chh\\Unity25-2\\chap.06\\Assets\\2.Scripts\\ClearDirector.cs",
+              "RelativeDocumentMoniker": "Assets\\2.Scripts\\ClearDirector.cs",
+              "ToolTip": "C:\\Chh\\Unity25-2\\chap.06\\Assets\\2.Scripts\\ClearDirector.cs",
+              "RelativeToolTip": "Assets\\2.Scripts\\ClearDirector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:45:17.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CameraController.cs",
               "DocumentMoniker": "C:\\Chh\\Unity25-2\\chap.06\\Assets\\2.Scripts\\CameraController.cs",
               "RelativeDocumentMoniker": "Assets\\2.Scripts\\CameraController.cs",
               "ToolTip": "C:\\Chh\\Unity25-2\\chap.06\\Assets\\2.Scripts\\CameraController.cs",
               "RelativeToolTip": "Assets\\2.Scripts\\CameraController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T01:47:25.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T01:47:25.354Z"
             },
             {
               "$type": "Document",
@@ -41,7 +73,7 @@
               "RelativeDocumentMoniker": "Assets\\2.Scripts\\PlayerController.cs",
               "ToolTip": "C:\\Chh\\Unity25-2\\chap.06\\Assets\\2.Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\2.Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvyoAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvy8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T08:08:55.883Z",
               "EditorCaption": ""

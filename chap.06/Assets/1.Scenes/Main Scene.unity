@@ -785,7 +785,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 2859123502206572738, guid: 78152ede8a650e14e90e9dfdb3ff5a37, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1677286134}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 78152ede8a650e14e90e9dfdb3ff5a37, type: 3}
 --- !u!1 &1677286132
@@ -866,12 +869,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1677286132}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.74, y: 1.99, z: 0}
-  m_LocalScale: {x: 1.3076, y: 1.1745, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.14705881, y: 0.4692308, z: 0}
+  m_LocalScale: {x: 0.7691764, y: 0.9034616, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1744866820}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1677286135
 BoxCollider2D:
@@ -918,6 +921,11 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.66, y: 1.03}
   m_EdgeRadius: 0
+--- !u!4 &1744866820 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2859123502206572738, guid: 78152ede8a650e14e90e9dfdb3ff5a37, type: 3}
+  m_PrefabInstance: {fileID: 1651411900}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1854635592
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1048,4 +1056,3 @@ SceneRoots:
   - {fileID: 1854635592}
   - {fileID: 943797547}
   - {fileID: 1651411900}
-  - {fileID: 1677286134}
