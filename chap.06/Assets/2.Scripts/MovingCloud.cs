@@ -12,6 +12,7 @@ public class MovingCloud : MonoBehaviour
     void Start()
     {
         speed = Random.Range(avgSpeed * 0.6f, avgSpeed * 1.4f);
+        direction = Random.Range(0, 2) == 0 ? 1 : -1;
     }
 
     // Update is called once per frame

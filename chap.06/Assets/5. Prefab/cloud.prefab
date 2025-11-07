@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: -8031107817118268821}
   m_Layer: 0
   m_Name: cloud
-  m_TagString: Untagged
+  m_TagString: cloud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -171,3 +171,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cedf2e2b121205b4294dc90bea3e3480, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  avgSpeed: 0.05

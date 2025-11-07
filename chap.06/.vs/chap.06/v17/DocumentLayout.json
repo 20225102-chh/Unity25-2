@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{27BE6962-3C38-B243-03FB-B1937CD17F98}|Assembly-CSharp.csproj|solutionrelative:assets\\2.scripts\\movingcloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27BE6962-3C38-B243-03FB-B1937CD17F98}|Assembly-CSharp.csproj|c:\\chh\\unity25-2\\chap.06\\assets\\2.scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27BE6962-3C38-B243-03FB-B1937CD17F98}|Assembly-CSharp.csproj|C:\\Chh\\Unity25-2\\chap.06\\assets\\2.scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27BE6962-3C38-B243-03FB-B1937CD17F98}|Assembly-CSharp.csproj|solutionrelative:assets\\2.scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Assets\\2.Scripts\\MovingCloud.cs",
               "ToolTip": "C:\\Chh\\Unity25-2\\chap.06\\Assets\\2.Scripts\\MovingCloud.cs",
               "RelativeToolTip": "Assets\\2.Scripts\\MovingCloud.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T08:36:58.875Z",
               "EditorCaption": ""
@@ -73,7 +73,7 @@
               "RelativeDocumentMoniker": "Assets\\2.Scripts\\PlayerController.cs",
               "ToolTip": "C:\\Chh\\Unity25-2\\chap.06\\Assets\\2.Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\2.Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvy8AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwEoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T08:08:55.883Z",
               "EditorCaption": ""
