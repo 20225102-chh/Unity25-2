@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Chh\\Unity25-2\\chap.07\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72518D98-0F12-B701-0E64-3768C5D8E134}|Assembly-CSharp.csproj|c:\\chh\\unity25-2\\chap.07\\assets\\2. scripts\\bamsongicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72518D98-0F12-B701-0E64-3768C5D8E134}|Assembly-CSharp.csproj|c:\\chh\\unity25-2\\chap.07\\assets\\2. scripts\\movingtf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72518D98-0F12-B701-0E64-3768C5D8E134}|Assembly-CSharp.csproj|solutionrelative:assets\\2. scripts\\movingtf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72518D98-0F12-B701-0E64-3768C5D8E134}|Assembly-CSharp.csproj|c:\\chh\\unity25-2\\chap.07\\assets\\2. scripts\\bamsongigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72518D98-0F12-B701-0E64-3768C5D8E134}|Assembly-CSharp.csproj|solutionrelative:assets\\2. scripts\\bamsongigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72518D98-0F12-B701-0E64-3768C5D8E134}|Assembly-CSharp.csproj|C:\\Chh\\Unity25-2\\chap.07\\assets\\2. scripts\\bamsongicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72518D98-0F12-B701-0E64-3768C5D8E134}|Assembly-CSharp.csproj|solutionrelative:assets\\2. scripts\\bamsongicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MovingTf.cs",
+              "DocumentMoniker": "C:\\Chh\\Unity25-2\\chap.07\\Assets\\2. Scripts\\MovingTf.cs",
+              "RelativeDocumentMoniker": "Assets\\2. Scripts\\MovingTf.cs",
+              "ToolTip": "C:\\Chh\\Unity25-2\\chap.07\\Assets\\2. Scripts\\MovingTf.cs",
+              "RelativeToolTip": "Assets\\2. Scripts\\MovingTf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T01:28:19.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BamsongiGenerator.cs",
+              "DocumentMoniker": "C:\\Chh\\Unity25-2\\chap.07\\Assets\\2. Scripts\\BamsongiGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\2. Scripts\\BamsongiGenerator.cs",
+              "ToolTip": "C:\\Chh\\Unity25-2\\chap.07\\Assets\\2. Scripts\\BamsongiGenerator.cs",
+              "RelativeToolTip": "Assets\\2. Scripts\\BamsongiGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:35:43.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BamsongiController.cs",
               "DocumentMoniker": "C:\\Chh\\Unity25-2\\chap.07\\Assets\\2. Scripts\\BamsongiController.cs",
               "RelativeDocumentMoniker": "Assets\\2. Scripts\\BamsongiController.cs",
               "ToolTip": "C:\\Chh\\Unity25-2\\chap.07\\Assets\\2. Scripts\\BamsongiController.cs",
               "RelativeToolTip": "Assets\\2. Scripts\\BamsongiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T08:05:56.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T08:05:56.833Z"
             }
           ]
         }
